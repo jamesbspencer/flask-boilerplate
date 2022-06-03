@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+sqlalchemy-utils
+flask-login
+gunicorn
