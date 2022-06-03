@@ -2,4 +2,5 @@ flask
 flask-sqlalchemy
 sqlalchemy-utils
 flask-login
+flask-wtf
 gunicorn
